@@ -1,2 +1,2 @@
 # Lashos-World
-My first repository on GitHub
+This is the beginning of my cybersecurity journey
